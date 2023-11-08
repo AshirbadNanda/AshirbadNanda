@@ -1,5 +1,9 @@
-<img align="center" src="https://pilbox.themuse.com/image.jpg?filter=antialias&h=100&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F01212022-1047259374-coding-classes_scanrail.jpg&w=700&h=200">
+<div align="center">
 
+<img src="https://pilbox.themuse.com/image.jpg?filter=antialias&h=100&opt=1&pos=top-left&prog=1&q=keep&url=https%3A%2F%2Fcms-assets.themuse.com%2Fmedia%2Flead%2F01212022-1047259374-coding-classes_scanrail.jpg&w=700&h=200">
+
+<div/>
+  
 <h1 align="center">Hi there i am Ashirbad Nanda👋<h1/>
 
 <!--
