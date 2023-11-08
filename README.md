@@ -1,4 +1,4 @@
-### Hi there i Ashirbad Nanda👋
+### Hi there i am Ashirbad Nanda👋
 
 <!--
 **AshirbadNanda/AshirbadNanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
